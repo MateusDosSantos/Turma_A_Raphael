@@ -1,0 +1,3 @@
+INDEX VERSION 1.127+/Users/Mateus/Dropbox/ProjetosAndroid_Git/.metadata/.plugins/org.eclipse.jdt.core
+3466297539.index
+3214906001.index

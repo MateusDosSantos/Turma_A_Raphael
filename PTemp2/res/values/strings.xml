@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PTemp2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tela02">Tela02</string>
+    <string name="title_activity_tela03">Tela03</string>
+    <string name="title_activity_tela06">Tela06</string>
+
+</resources>
